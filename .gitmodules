@@ -1,3 +1,7 @@
 [submodule "DayTraderTycoon/themes/PaperMod"]
 	path = DayTraderTycoon/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "DayTraderTycoon/public"]
+	path = DayTraderTycoon/public
+	url = git@github.com:DayTraderTycoon/daytradertycoon.github.io.git
+	branch = main
