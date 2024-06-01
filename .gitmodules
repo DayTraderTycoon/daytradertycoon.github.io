@@ -1,5 +1,5 @@
-[submodule "daytradertycoon/public"]
-	path = daytradertycoon/public
+[submodule "DayTraderTycoon/public"]
+	path = DayTraderTycoon/public
 	url = git@github.com:DayTraderTycoon/daytradertycoon.github.io.git
 	branch = main
 [submodule "DayTraderTycoon/themes/PaperMod"]
