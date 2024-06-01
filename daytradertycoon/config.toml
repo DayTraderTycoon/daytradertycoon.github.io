@@ -1,5 +1,0 @@
-baseURL = 'https://daytradertycoon.github.io/'
-languageCode = 'en-us'
-title = 'Day Trader Tycoon'
-
-theme="contrast-hugo"
