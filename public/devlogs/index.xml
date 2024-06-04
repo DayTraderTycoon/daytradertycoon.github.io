@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Devlogs on Day Trader Tycoon</title>
+    <link>http://localhost:1313/devlogs/</link>
+    <description>Recent content in Devlogs on Day Trader Tycoon</description>
+    <image>
+      <title>Day Trader Tycoon</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.126.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/devlogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevLog 001 - 2024-06-03</title>
+      <link>http://localhost:1313/devlogs/devlog-1---2024-06-03/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/devlogs/devlog-1---2024-06-03/</guid>
+      <description>I&amp;rsquo;ve been working on a small game named Day Trader Tycoon as a side project for the past few months, and I think it&amp;rsquo;s in a good-enough state for me to post about it.
+To set the stage, here is a screenshot of the game:
+The main setting of the game is that the player works in a pension fund, and they day-trade with people&amp;rsquo;s pension money. The game aims to be a parody of the stock market, with a combination of a linear story and many different random events.</description>
+    </item>
+  </channel>
+</rss>
