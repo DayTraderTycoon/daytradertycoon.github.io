@@ -125,7 +125,7 @@ menu:
       weight: 2
     - identifier: devlogs
       name: Devlogs
-      url: /devlog
+      url: /devlogs
       weight: 3
   #   - identifier: tags
   #     name: tags

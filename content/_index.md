@@ -12,5 +12,3 @@ Your goal is simple: Make as much money as possible by day-trading. You'll need 
 The game is fast paced, with the player needing to quickly react to market events. 
 
 The game is made by one person with an indie budget. I am aiming for a playable demo in June 2024. 
-
----
