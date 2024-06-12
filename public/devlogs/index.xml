@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.126.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/devlogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevLog 002 - 2024-06-07</title>
+      <link>http://localhost:1313/devlogs/devlog-2---2024-06-07/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/devlogs/devlog-2---2024-06-07/</guid>
+      <description>Added the ability to better control stock volatility throughout the day. Until now, I had one seed for each day that controlled the random movements of the stocks, usually giving a small trend upwards or downwards for each day. I recently added the ability to change the direction of the stocks for specific hours, allowing me to provide story elements that relate to the full story.
+In the image, you can see &amp;ldquo;extreme&amp;rdquo; changes in the random movements of stocks.</description>
+    </item>
     <item>
       <title>DevLog 001 - 2024-06-03</title>
       <link>http://localhost:1313/devlogs/devlog-1---2024-06-03/</link>

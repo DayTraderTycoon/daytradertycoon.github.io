@@ -1,4 +1,4 @@
-[](../file.img)
+![logo](/DayTraderTycoonLogo.png)
 
 
 **Day Trader Tycoon** is an indie game that aims to be a parody of the stock market. 
