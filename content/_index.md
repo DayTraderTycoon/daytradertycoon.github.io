@@ -5,6 +5,8 @@
 
 Your goal is simple: Make as much money as possible by day-trading. You'll need to quickly react to market events, such as new announcements from companies, market conditions and black-swan events.
 
+**A technical demo is [now available on Itch.io](https://johnyrose.itch.io/day-trader-tycoon)**
+
 {{< youtube Hin43fgHSzI >}}
 
 ---

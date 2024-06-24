@@ -123,10 +123,10 @@ menu:
       name: FAQ
       url: /faq
       weight: 2
-    - identifier: devlogs
-      name: Devlogs
-      url: /devlogs
-      weight: 3
+    # - identifier: devlogs
+    #   name: Devlogs
+    #   url: /devlogs
+    #   weight: 3
   #   - identifier: tags
   #     name: tags
   #     url: /tags/
