@@ -9,6 +9,24 @@
 
 {{- /* Title */}}
 <title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ site.Title }}</title>
+{{ $ga := .Site.Params.GoogleAnalytics }}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+{{ $ga := .Site.Params.GoogleAnalytics }}
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', '{{ $ga }}');
+
+</script>
+
+<script async src\="https://www.googletagmanager.com/gtag/js?id={{ $ga }}"\></script>
 
 {{- /* Meta */}}
 {{- if .IsHome }}
