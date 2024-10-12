@@ -15,4 +15,4 @@ A technical demo is [now available on Itch.io](https://johnyrose.itch.io/day-tra
 
 The game is fast paced, with the player needing to quickly react to market events. 
 
-The game is made by one person with an indie budget. I am aiming for a playable demo in June 2024. 
+The game is made by one person with an indie budget. I am aiming for a release in Jan-Feb 2025. 

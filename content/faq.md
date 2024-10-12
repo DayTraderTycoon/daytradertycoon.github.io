@@ -1,14 +1,12 @@
 **Q: When is the release date?**
 
-A: No release date yet, however I am aiming for the next few months, meaning somewhere between July-October 2024.
-
-That being said, a basic playable demo should be available at June 2024, however it's more of an alpha-state demo than a demo of the completed product. 
+A: No release date yet, however I am aiming for Jan-Feb 2025.
 
 ---
 
 **Q: How much will it cost?**
 
-A: I haven't decided yet, my current guess is around 11$.
+A: I haven't decided yet, my current guess is around 10$.
 
 ---
 
